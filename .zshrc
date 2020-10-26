@@ -70,6 +70,7 @@ ZSH_THEME="spaceship"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
     yarn
+    brew
     git
     zsh-syntax-highlighting
     zsh-autocomplete
